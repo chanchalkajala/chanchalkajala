@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pallu Kumar</h1>
 <h3 align="center">Frontend Developer | Passionate about Web Technologies</h3>
 
+
+
+
 <p align="center">
   <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg" alt="Coding" width="500"/>
 </p>
@@ -22,7 +25,8 @@
 
 ## 📫 Contact Me
 📧 **Email:** [chanchalkajala037@gmail.com](mailto:chanchalkajala037@gmail.com)  
-🌍 **Portfolio:** _Coming soon_  
+🌍 **Portfolio:** _Coming soon_ 30 days .......
+<br>
 📷 **Instagram:** [@chanchalpallu](https://instagram.com/chanchalpallu)  
 
 ---
