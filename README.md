@@ -25,7 +25,7 @@
 
 ## 📫 Contact Me
 📧 **Email:** [chanchalkajala037@gmail.com](mailto:chanchalkajala037@gmail.com)  
-🌍 **Portfolio:** _Coming soon_ 30 days .......
+🌍 **Portfolio:** _Coming soon_ 6 Month.......
 <br>
 📷 **Instagram:** [@chanchalpallu](https://instagram.com/chanchalpallu)  
 
